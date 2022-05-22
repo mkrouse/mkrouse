@@ -8,7 +8,6 @@
 <br/>
 <br/>
 
-<img align="right" height="250" width="400" alt="GIF" src="GIF/image.gif"/>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Cloud Engineering** 𝚊𝚗𝚍 **DevOps**.
 -  💬 Ask me about how to speed up cloud development with **[Runiac](https://github.com/Optum/runiac)**!
@@ -19,12 +18,15 @@
 <br/>
 <br/>
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+
+<h2 align = "center">
+  Languages and Tools
+</h2>
 
 <br/>
 <br/>
 
-<a align= "center">
+<a align = "center">
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/9d27ca19153a1355b3d6ad5106ade6659ccba113/topics/terraform/terraform.png"></code>
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png"></code>
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -57,9 +59,11 @@
 <br/>
 <br/>
 
-<h1>
+<h2 align = "center">
   Connect With Me
-</h1>
+</h2>
+
+#
 
 <p align="center">
   <br>
