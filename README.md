@@ -14,7 +14,7 @@
 -  💬 Ask me about how to speed up cloud development with **[Runiac](https://github.com/Optum/runiac)**!
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Go Lang** 𝚊𝚗𝚍 **Machine Learning at scale**.
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **cloud tools** that make my life easier.
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : There are `10` types of people in the world, those who **understand** `binary` and those who **don't.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : There are `10` types of people in the world, those who **understand** *`binary`* and those who **don't.**
 
 <br/>
 <br/>
@@ -63,7 +63,6 @@
 
 <h1>
   Connect With Me
-  <img src="GIF/Handshake.gif" height="25px">
 </h1>
 
 <p align="center">
