@@ -63,7 +63,6 @@
   Connect With Me
 </h2>
 
-#
 
 <p align="center">
   <br>
