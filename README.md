@@ -65,11 +65,6 @@
 
 
 <p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/matthewkrouse/" target="_blank">
-    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
-  </a> 
-</p>
 <br/>
 
 <br/>
